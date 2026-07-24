@@ -1,0 +1,6 @@
+{
+  "Model": "Llama 3",
+  "Temperature": 0.6,
+  "Max Token": 1022,
+  "System Prompt assistant": "You are a helpful ai assistant"
+}

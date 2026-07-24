@@ -1,0 +1,4 @@
+Model,temperature,Max token
+Llama3,0.9,888
+gemini,0.5,1022
+GPT,0.6,1002
