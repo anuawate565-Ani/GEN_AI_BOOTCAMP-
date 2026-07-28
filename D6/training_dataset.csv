@@ -1,0 +1,3 @@
+Dataset,image,Classes
+Cats_vs_dogs,250,2
+CIFAR,1000,10

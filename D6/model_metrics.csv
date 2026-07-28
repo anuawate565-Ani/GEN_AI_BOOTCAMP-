@@ -1,0 +1,4 @@
+Model,Accuracy,Loss
+Llama3,99,0.22
+GPT-4,88,0.55
+Gemini,85,0.66
